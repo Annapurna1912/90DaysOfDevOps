@@ -14,3 +14,6 @@ Iam a working professional having 5 years of experience in Telecom but having a 
 2.Docker & CI/CD with Jenkins
 3.Cloud Deployment (AWS Fundamentals)
 
+# Weekly Time budget
+
+Want to spend 2-3 hrs in weekday and weekends.
